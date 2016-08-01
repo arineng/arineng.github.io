@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: About Projects @ ARIN
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+The American Registry for Internet Numbers (ARIN), a nonprofit member-based organization, supports the operation of the Internet through the management of Internet number resources throughout its service region; coordinates the development of policies by the community for the management of Internet Protocol number resources; and advances the Internet through informational outreach.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+In the process of managing Internet number resources, ARIN expends a non-trivial amount of time and money on engineering projects. Some of these projects are applicable to the public at-large and are made available here.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Additionally, we highlight other open-source projects that utilize ARIN's APIs.
