@@ -3,7 +3,6 @@ layout: page
 title: The Registry Data Access Protocol
 permalink: /rdap/
 ---
-# The Registry Data Access Protocol
 
 The Registry Data Access Protocol (RDAP) is a successor protocol to Whois, ratified by the Internet Engineering Task Force (IETF) in March, 2015. At present, all 5 Regional Internet Registries (RIRs) operate RDAP services, and ICANN is finalizing plans for operation of RDAP services by all domain registries. More information on RDAP can be found [here](https://www.arin.net/resources/rdap.html).
 
