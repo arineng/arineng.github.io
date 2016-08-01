@@ -1,3 +1,8 @@
+---
+layout: page
+title: Puppet @ ARIN
+permalink: /puppet/
+---
 # Puppet
 
 Puppet, an automated administrative engine for your Linux, Unix, and Windows systems, performs administrative tasks (such as adding users, installing packages, and updating server configurations) based on a centralized specification.
