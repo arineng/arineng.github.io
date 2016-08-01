@@ -13,3 +13,5 @@ ARIN operates several RESTful web services:
 A list of ARIN authored software for RDAP can be found on the [RDAP page](/rdap/).
 
 In addition, ARIN has authored a set of command-line Ruby clients which utilize both Reg-RWS and Whois-RWS. These scripts are known collectively as **ARINCli**. More information can be found on these scripts on the [ARINCli project page](https://github.com/arineng/arincli), and information on each script may be found [here](/arincli_html/arincli.7.html).
+
+**ARINWhois.NET** is a .NET client library for Whois-RWs written by Max Hortsmann. More information can be found on [it's GitHub project page](https://github.com/MaxHorstmann/ArinWhois.NET).
