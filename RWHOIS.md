@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Referral WHOIS page
+title: RWHOIS
 permalink: /rwhois/
 ---
 
